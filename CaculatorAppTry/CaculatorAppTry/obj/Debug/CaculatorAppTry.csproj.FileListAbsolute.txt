@@ -1,0 +1,11 @@
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\bin\Debug\CaculatorAppTry.exe.config
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\bin\Debug\CaculatorAppTry.exe
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\bin\Debug\CaculatorAppTry.pdb
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.csproj.AssemblyReference.cache
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.csproj.CoreCompileInputs.cache
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.exe
+C:\Users\ohad8\source\repos\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.pdb
+C:\Users\ohad8\Desktop\C#Apps\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.csproj.AssemblyReference.cache
+C:\Users\ohad8\Desktop\C#Apps\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.csproj.CoreCompileInputs.cache
+C:\Users\ohad8\Desktop\C#Apps\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.exe
+C:\Users\ohad8\Desktop\C#Apps\CaculatorAppTry\CaculatorAppTry\obj\Debug\CaculatorAppTry.pdb
